@@ -1,0 +1,25 @@
+my-retail-store/
+│
+├── src/
+│   ├── components/
+│   │   ├── Header.vue
+│   │   ├── ProductList.vue
+│   │   ├── ProductDetail.vue
+│   │   ├── ShoppingCart.vue
+│   │   └── Footer.vue
+│   │
+│   ├── pages/
+│   │   ├── Home.vue
+│   │   ├── Products.vue
+│   │   ├── ProductDetail.vue
+│   │   ├── ShoppingCart.vue
+│   │   └── Checkout.vue
+│   │
+│   ├── assets/
+│   │   ├── images/
+│   │   └── styles/
+│   │
+│   ├── App.vue
+│   └── main.js
+│
+└── package.json
